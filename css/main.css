@@ -12,9 +12,9 @@ html {
 }
 
 .nav a:focus {
-  background: #4d7a8d;
+  background: #9ac8f1;
   color: white;
-  outline: #4d7a8d;
+  outline: #9ac8f1;
 }
 
 .section-dark {
